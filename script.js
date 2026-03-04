@@ -5,7 +5,7 @@ const produtos = [
     nome: 'Sapato Masculino',
     descricao: 'Sapato infantil feito a mão.',
     categoria: 'Sapato Infantil',
-    thumb: 'img/kit_sapato_masculino.Webp'
+    thumb: '../img/Kit_sapato_masculino.Webp'
   },
   {
     nome: 'Sapato Feminino',
@@ -229,6 +229,7 @@ document.getElementById("menuContato").addEventListener("click", function(e) {
   );
 
 });
+
 
 
 
