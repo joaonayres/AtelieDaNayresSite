@@ -5,7 +5,7 @@ const produtos = [
     nome: 'Sapato Masculino',
     descricao: 'Sapato infantil feito a mão.',
     categoria: 'Sapato Infantil',
-    thumb: 'img/Kit_sapato_masculino.Webp'
+    thumb: 'main/img/Kit_sapato_masculino.Webp'
   },
   {
     nome: 'Sapato Feminino',
@@ -227,4 +227,5 @@ document.getElementById("menuContato").addEventListener("click", function(e) {
     "https://wa.me/5565999393809?text=Olá,%20vim%20pelo%20site%20Ateliê%20da%20Nayres%20e%20quero%20mais%20informações.",
     "_blank"
   );
+
 });
