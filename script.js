@@ -11,127 +11,127 @@ const produtos = [
     nome: 'Sapato Feminino',
     descricao: 'Sapato infantil feito a mão.',
     categoria: 'Sapato Infantil',
-    thumb: 'img/Kit_sapato_feminino.Webp'
+    thumb: 'img/kit_sapato_feminino.webp'
   },
   {
     nome: 'Enxoval Feminino',
     descricao: 'Kit Calcinha, babador e sapatinho.',
     categoria: 'Utilidade',
-    thumb: 'img/Kit_Calcinha_Babador.Webp'
+    thumb: 'img/kit_calcinha_babador.webp'
   },
   {
     nome: 'Toalha de Banho',
     descricao: 'Toalha personalizada com bordado.',
     categoria: 'Bordado',
-    thumb: 'img/Toalha_banho.Webp'
+    thumb: 'img/toalha_banho.webp'
   },
   {
     nome: 'Toalha de Rosto',
     descricao: 'Toalha personalizada com bordado.',
     categoria: 'Bordado',
-    thumb: 'img/Toalha_rosto.Webp'
+    thumb: 'img/toalha_rosto.webp'
   },
   {
     nome: 'Porta Documentos',
     descricao: 'Porta documentos personalizado com bordado.',
     categoria: 'Utilidade',
-    thumb: 'img/Porta_documentos.Webp'
+    thumb: 'img/porta_documentos.webp'
   },
   {
     nome: 'Kit de fraldas',
     descricao: 'Fraldas mais toalha de banho personalizada.',
     categoria: 'Fralda',
-    thumb: 'img/Kit_fraldas.Webp'
+    thumb: 'img/kit_fraldas.webp'
   },
   {
     nome: 'Enxoval com Bolsa',
     descricao: 'Kit enxoval com bolsa de maternidade.',
     categoria: 'Fralda',
-    thumb: 'img/Enxoval_Bolsa_Maternidade.Webp'
+    thumb: 'img/enxoval_bolsa_maternidade.webp'
   },
   {
     nome: 'Kit Enxoval',
     descricao: 'Kit enxoval com touca personalizada.',
     categoria: 'Fralda',
-    thumb: 'img/Kit_Enxoval_Touca.Webp'
+    thumb: 'img/kit_enxoval_touca.webp'
   },
   {
     nome: 'Mochila Infantil',
     descricao: 'mochila personalizada com bordado.',
     categoria: 'Mochila',
-    thumb: 'img/mochila_costa.Webp'
+    thumb: 'img/mochila_costa.webp'
   },
   {
     nome: 'Mochila Infantil',
     descricao: 'mochila personalizada com bordado.',
     categoria: 'Mochila',
-    thumb: 'img/Mochila_feminina.Webp'
+    thumb: 'img/mochila_feminina.webp'
   },
   {
     nome: 'Almofada amamentação',
     descricao: 'Almofada personalizada com bordado.',
     categoria: 'Utilidade',
-    thumb: 'img/Almofada_amamentação.Webp'
+    thumb: 'img/almofada_amamentação.webp'
   },
   {
     nome: 'Almofada amamentação',
     descricao: 'Almofada personalizada com bordado.',
     categoria: 'Utilidade',
-    thumb: 'img/Almofada.Webp'
+    thumb: 'img/almofada.webp'
   },
   {
     nome: 'Porta Documentos',
     descricao: 'Porta documentos feminino.',
     categoria: 'Utilidade',
-    thumb: 'img/Porta_Documento_Feminino.Webp'
+    thumb: 'img/porta_documento_feminino.webp'
   },
   {
     nome: 'Kit Masculino',
     descricao: 'Babador com cueca e chapeu.',
     categoria: 'Utilidade',
-    thumb: 'img/Enxoval_Masculino.Webp'
+    thumb: 'img/enxoval_masculino.webp'
   },
   {
     nome: 'Necessaire feminina',
     descricao: 'Necessaire personalizada com bordado.',
     categoria: 'Utilidade',
-    thumb: 'img/Necessaire_feminina.Webp'
+    thumb: 'img/necessaire_feminina.webp'
   },
   {
     nome: 'Almofada Curuja',
     descricao: 'Almofada Coruja porsonalizada.',
     categoria: 'Utilidade',
-    thumb: 'img/Almofada_coruja.Webp'
+    thumb: 'img/almofada_coruja.webp'
   },
   {
     nome: 'Almofada Pescoço',
     descricao: 'Almofada de pescoço porsonalizada.',
     categoria: 'Utilidade',
-    thumb: 'img/Almofada_pescoço.Webp'
+    thumb: 'img/almofada_pescoço.webp'
   },
   {
     nome: 'Kit Organizadores',
     descricao: 'Organizadores porsonalizada.',
     categoria: 'Utilidade',
-    thumb: 'img/Kit_Organizadores.Webp'
+    thumb: 'img/kit_organizadores.webp'
   },
   {
     nome: 'Cueiro masculino',
     descricao: 'Cueiro personalizada com bordado.',
     categoria: 'Bordado',
-    thumb: 'img/Kit_cueiro.Webp'
+    thumb: 'img/kit_cueiro.webp'
   },
   {
     nome: 'Kit Enxoval',
     descricao: 'Enxoval com toalha de capuz personalizada.',
     categoria: 'Bordado',
-    thumb: 'img/Kit_Enxoval_Toalha.Webp'
+    thumb: 'img/kit_enxoval_toalha.webp'
   },
   {
     nome: 'Enxoval Feminino',
     descricao: 'Kit enxoval personalizada com bordado.',
     categoria: 'Enxoval',
-    thumb: 'img/Kit_enxoval_feminino.Webp'
+    thumb: 'img/kit_enxoval_feminino.webp'
   }
 
 ];
@@ -229,6 +229,7 @@ document.getElementById("menuContato").addEventListener("click", function(e) {
   );
 
 });
+
 
 
 
